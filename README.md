@@ -1,5 +1,4 @@
 # Professional-Portfolio
-# Professional-Portfolio
 
 USER STORY
 
@@ -23,9 +22,9 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-MOCKUP:
-The final portfolio should look like the attched picture and link:
 
-![Alt text](assets/images/portfolio.png).
+The final portfolio should look like the attched links:
+
+
 Website Link:
 Github Link:
