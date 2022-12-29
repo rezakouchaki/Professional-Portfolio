@@ -1,5 +1,4 @@
 # Professional-Portfolio
-# Professional-Portfolio
 
 USER STORY
 
@@ -24,8 +23,10 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 MOCKUP:
-The final portfolio should look like the attched picture and link:
 
-![Alt text](assets/images/portfolio.png).
+The final portfolio should look like the attched picture and links below:
+
+![Alt text](../../../mock-up.jpg)
+
 Website Link:
 Github Link:

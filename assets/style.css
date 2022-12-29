@@ -40,7 +40,6 @@ nav {
     background-image: url("https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80url");
     background-size: cover;
     background-position: center;
-    flex-direction: row;
 }
 
 .hilight {
@@ -69,11 +68,6 @@ main {
 
 #work {
     height: 600px;
-}
-
-main {
-    margin: 0;
-    padding: 0;
 }
 
 .main-section {
@@ -197,8 +191,38 @@ h2 {
     font-size: xx-large;
 }
  
- 
- 
+@media screen and (max-width: 920px){
+  #address a, header a { flex-direction: column;
+    justify-content: center;
+    flex-wrap: nowrap;
+    line-height: 2;
+    display: block;
+    align-items: center;
+  }
+  .flex-container a {
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 500px;
+  }
+   #contact {
+    padding: 0 10px 0 10px;
+  }
+  #work {height: 800px;
+  }
+  header {
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 778px){
+  .flex-container a {
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 310px;
+  }
+}
+    
+
  
 
  
