@@ -40,9 +40,11 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 
-The final portfolio should look like the attched links:
+MOCKUP:
 
+The final portfolio should look like the attched picture and links below:
 
-Website Link: https://rezakouchaki.github.io/Professional-Portfolio/
+![Alt text](../../../mock-up.jpg)
 
-Github Link: https://github.com/rezakouchaki/Professional-Portfolio
+Website Link:
+Github Link:
