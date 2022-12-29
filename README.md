@@ -48,4 +48,4 @@ The final portfolio should look like the attched picture and links below:
 
 Website Link: https://rezakouchaki.github.io/Professional-Portfolio/
 
-Github Link:
+Github Link: https://github.com/rezakouchaki/Professional-Portfolio
